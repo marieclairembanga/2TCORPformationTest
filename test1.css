@@ -1,8 +1,10 @@
 <!doctype>
  <style>
-  article{
+  #section{
 font-family: Andalus;
+font-size: 18 ;
 background-color: black;
 color: white;
+float: center-right;
 }
 </style>
